@@ -12,4 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤ by Lesly 
+# Run Buddy Inc.
 
