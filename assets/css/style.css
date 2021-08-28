@@ -73,7 +73,7 @@ section{
 
 /* Hero Style Start */
 .hero {
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/hero-bg.jpg.jpg);
     height: 600px;
     background-size: cover;
 background-position: center;
@@ -86,7 +86,7 @@ position: relative;
     background: #fce138;
     padding: 20px;
     width: 500px;
-    color: #024e76
+    color: #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
